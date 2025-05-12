@@ -3,9 +3,9 @@ RAG pipeline - using langchain, ollama and FAISS
 
 ## Create python env using following command and activate
   ``python3 -m venv faissenv``
-  ![abc](https://github.com/user-attachments/assets/71ebe42d-2503-4232-a62b-592140c89e07)
 
   ``.\faissenv\Scripts\activate``
+  
 ## Run the following command to install dependencies
   ``pip instsall -r .\requirements.txt``
 

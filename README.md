@@ -1,5 +1,4 @@
 # faissrag
-RAG pipeline - using langchain, ollama and FAISS 
 ![faiss](https://github.com/user-attachments/assets/1ad84434-7dbb-4c1d-87fb-64835247f428)
 
 
@@ -20,3 +19,5 @@ RAG pipeline - using langchain, ollama and FAISS
   ``python3 main.py``
 
 ![Output](https://github.com/user-attachments/assets/1197cd4e-19d7-447e-9fd1-0b49ad1695ac)
+
+For more details, Please visit https://ekluvtech.com/2025/04/26/what-is-faiss-and-its-uses/

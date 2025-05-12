@@ -1,20 +1,20 @@
 # faissrag
 RAG pipeline - using langchain, ollama and FAISS
 
-## Create python env using following command and activate
+### Create python env using following command and activate
   ``python3 -m venv faissenv``
 
   ``.\faissenv\Scripts\activate``
   
-## Run the following command to install dependencies
+### Install dependencies by running the following command
   ``pip instsall -r .\requirements.txt``
 
-## Make sure to setup ollama locally, please follow the below blog to setup, Please skip the Qdrant setup as we are using faiss vector db.
+### Before proceeding, please ensure you have Ollama set up locally. For setup instructions, refer to the blog post below, skipping the Qdrant setup section as we will be using Faiss vector DB instead.
   https://ekluvtech.com/2025/04/10/setup-ollama-and-qdrant/
   
-## Replace the config parameters in config.py
+### Update the configuration parameters in config.py with your own values
   
-## Once the setu is ready run the following command to run the main program. It will load the documents already placed in the project under data folder. once the embeddings are loaded into faiss db, it will create the index locally. And then it will ask for query input for question. 
+### Once the setup is ready, run the following command to start the program, which will automatically load documents from the data folder, load embeddings into the Faiss database, create a local index, and then prompt you to enter a query, enabling you to ask questions and interact with the LLM.
   ``python3 main.py``
 
 ![Output](https://github.com/user-attachments/assets/1197cd4e-19d7-447e-9fd1-0b49ad1695ac)

@@ -17,5 +17,4 @@ RAG pipeline - using langchain, ollama and FAISS
 ## Once the setu is ready run the following command to run the main program. It will load the documents already placed in the project under data folder. once the embeddings are loaded into faiss db, it will create the index locally. And then it will ask for query input for question. 
   ``python3 main.py``
 
-
-![Output](https://github.com/user-attachments/assets/742f5198-0d24-4d14-a103-0df24b043e30)
+![Output](https://github.com/user-attachments/assets/1197cd4e-19d7-447e-9fd1-0b49ad1695ac)

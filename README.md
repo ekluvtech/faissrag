@@ -1,5 +1,7 @@
 # faissrag
-RAG pipeline - using langchain, ollama and FAISS
+RAG pipeline - using langchain, ollama and FAISS 
+![faiss](https://github.com/user-attachments/assets/1ad84434-7dbb-4c1d-87fb-64835247f428)
+
 
 #### 1.Create python env using following command and activate
   ``python3 -m venv faissenv``

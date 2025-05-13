@@ -54,7 +54,7 @@ def main():
     init_llm()
     folder_path = f"{FOLDER_PATH}"
     #logging.info("Creating index from %s",folder_path)
-    #load_index()
+    load_index()
     query = input("Type in your query: \n")
     while query != "exit":
         query_pdf(query)

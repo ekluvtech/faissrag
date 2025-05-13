@@ -1,5 +1,5 @@
 # faissrag
-![faiss](https://github.com/user-attachments/assets/1ad84434-7dbb-4c1d-87fb-64835247f428)
+![faiss2](https://github.com/user-attachments/assets/49eeb5ec-47a4-439d-ba55-285b4d6cdb15)
 
 
 #### 1.Create python env using following command and activate
